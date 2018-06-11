@@ -63,7 +63,7 @@ class TimerCardsCover extends Component{
       this.deleteTimerFromState = this.deleteTimerFromState.bind(this);
     } 
     state={
-      timers: JSON.parse(localStorage.getItem('timers')),
+      timers: JSON.parse(localStorage.getItem('timers'))||[],
       anyTimerOn: false
     }
     updateTimersInState(){
