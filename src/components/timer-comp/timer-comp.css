@@ -1,0 +1,9 @@
+div.timer-comp-cover{
+    text-align:center;
+    background: #0ea71352;
+    border-radius: 24px;
+    width: 160px;
+    left: 45px;
+    position: relative;
+    height: 45px;
+}

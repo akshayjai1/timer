@@ -1,0 +1,22 @@
+div.timer-card{
+    background-color:#5fde74;
+    margin: 4px;
+    width:300px;
+    display: inline-block   
+}
+div.timer-card h3.timer-name{
+    margin: 2px;
+    display: inline-block;
+    width: calc(100% - 100px);
+}
+div.timer-card h4.project-name{
+    display: inline-block;
+    width: calc(100% - 85px);
+    margin: 2px;
+}
+.timerDeleteIcon{
+    /* float: right; */
+    position: absolute !important;
+    /* top: 65px;
+    left: 220px; */
+  }

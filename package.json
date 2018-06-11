@@ -1,0 +1,26 @@
+{
+  "name": "timer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.2.0",
+    "@material-ui/icons": "^1.1.0",
+    "ajv": "^6.5.0",
+    "mdbreact": "^4.4.0",
+    "moment": "^2.18.1",
+    "rc-time-picker": "^3.3.1",
+    "react": "^16.4.0",
+    "react-big-calendar": "^0.19.1",
+    "react-dnd": "^4.0.2",
+    "react-dnd-html5-backend": "^4.0.2",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
